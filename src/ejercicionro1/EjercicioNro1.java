@@ -44,8 +44,8 @@ public class EjercicioNro1 {
         
         //****PARTE DOS*****//
         
-        Carro miPrimerCarro = new Carro("Azul",4, 2010, "KIA");
-        Carro miSegundoCarro = new Carro("Negro",2, 2016, "Chevrolet");
+        Carro miPrimerCarro = new Carro("Azul",4, 2013, "KIA");
+        Carro miSegundoCarro = new Carro("Negro",2, 2014, "Chevrolet");
         
         double valorPrimerCarro = miPrimerCarro.valorCarro();
         System.err.println("El valor del primer carro es: " + valorPrimerCarro);
